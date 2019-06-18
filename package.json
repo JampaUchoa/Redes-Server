@@ -1,0 +1,13 @@
+{
+  "name": "redes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "~4.16.1",
+    "request": "^2.88.0"
+  }
+}
